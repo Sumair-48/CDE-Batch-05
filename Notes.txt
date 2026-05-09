@@ -1,0 +1,38 @@
+SQL Class 01
+
+Select
+FROM
+Where 
+Order by
+ASE | DECS
+TOP [10|PERCENT] -- LIMIT
+
+SELECT TOP 1 PERCENT
+	*
+FROM production.PRODUCTS
+ORDER BY list_price DESC;
+
+OFFSET ] -- Used with order by
+FETCH  ]
+
+DISTINCT
+
+AND | OR
+
+production.product all column and categories 1 or list prices should be > 400 order by list price
+
+SQL Class 02
+
+IN
+NOT
+BETWEEN 
+Alias
+LIKE (%,_)
+To Add two column (+)
+Joins
+- INNER JOINS -- DONE
+- LEFT JOINS -- DONE
+- RIGHT JOINS -- DONE
+- FULL JOINS -- DONE
+- CROSS JOIN -- DONE
+- SELF JOIN -- DONE
